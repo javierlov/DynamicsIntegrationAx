@@ -1,0 +1,5 @@
+c:\TFSProyects\SPRAYETTE\DynamicsIntegration.Ax\bin\Debug\DynamicsIntegration.Ax.dll
+c:\TFSProyects\SPRAYETTE\DynamicsIntegration.Ax\bin\Debug\DynamicsIntegration.Ax.pdb
+c:\TFSProyects\SPRAYETTE\DynamicsIntegration.Ax\obj\Debug\DynamicsIntegration.Ax.csprojResolveAssemblyReference.cache
+c:\TFSProyects\SPRAYETTE\DynamicsIntegration.Ax\obj\Debug\DynamicsIntegration.Ax.dll
+c:\TFSProyects\SPRAYETTE\DynamicsIntegration.Ax\obj\Debug\DynamicsIntegration.Ax.pdb
